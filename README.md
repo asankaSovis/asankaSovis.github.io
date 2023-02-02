@@ -1,2 +1,9 @@
-# asankaSovis.github.io
-🕸️ Repo for my personal website
+# 🕸️ Personal Website
+This repo holds the source code of my personal website. The template used is originally uploaded by [DevCRUD](https://devcrud.com/) to [www.free-css.com](https://www.free-css.com/free-css-templates/page281/john-doe). You are free to copy this source and use it for your own personal website. In case the site does not work, you can still refer to my [LinkedIn](https://www.linkedin.com/in/asanka-sovis/) and [Github](https://github.com/asankaSovis) for my information. Additionally, my Curriculum Vitae/Resume is available for downloading in [this link](https://github.com/asankaSovis/asankaSovis.github.io/blob/main/documents/Curriculum_Vitae.pdf). Feel free to contact me on [akashsovis@gmail.com](mailto:akashsovis@gmail.com).
+
+---
+
+[<img src='https://github.com/asankaSovis/asankaSovis/blob/main/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/artist.artist.98) [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/github.svg' alt='github' height='30'>](https://github.com/asankaSovis)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/asankaakashsovis/)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/twitter.svg' alt='twitter' height='30'>](https://twitter.com/AsankaSovis)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/asanka-sovis/)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/youtube.svg' alt='youTube' height='30'>](https://www.youtube.com/c/AKASHSOVIS/) 
+[<img src='https://github.com/asankaSovis/asankaSovis/blob/main/deviant.svg' alt='deviant' height='30'>](https://www.deviantart.com/asanka98)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/pin.svg' alt='pinterest' height='30'>](https://www.pinterest.com/asankasovis)     [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/hashnode.png' alt='hashnode' height='28'>](https://asanka.hashnode.dev/)     [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/blog.svg' alt='blog' height='28'>](https://asanka-sovis.blogspot.com/)
+
+`© 2022 Asanka Sovis`
