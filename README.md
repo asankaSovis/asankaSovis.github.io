@@ -1,7 +1,7 @@
 # 🕸️ Personal Website
 This repo holds the source code of my personal website. The template used is originally uploaded by [DevCRUD](https://devcrud.com/) to [www.free-css.com](https://www.free-css.com/free-css-templates/page281/john-doe). You are free to copy this source and use it for your own personal website. In case the site does not work, you can still refer to my [LinkedIn](https://www.linkedin.com/in/asanka-sovis/) and [Github](https://github.com/asankaSovis) for my information. Additionally, my Curriculum Vitae/Resume is available for downloading in [this link](https://github.com/asankaSovis/asankaSovis.github.io/blob/main/documents/Curriculum_Vitae.pdf). Feel free to contact me on [akashsovis@gmail.com](mailto:akashsovis@gmail.com).
 
-**Visit my Personal Site: [www.asankasovis.github.io](https://asankasovis.github.io/)**
+**Visit my Personal Site: [asankasovis.github.io](https://asankasovis.github.io/)**
 
 ---
 
