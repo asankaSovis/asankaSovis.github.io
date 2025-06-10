@@ -1,5 +1,5 @@
 # 🕸️ Personal Website
-This repo holds the source code of my personal website. The template used is originally uploaded by [DevCRUD](https://devcrud.com/) to [www.free-css.com](https://www.free-css.com/free-css-templates/page281/john-doe). You are free to copy this source and use it for your own personal website. In case the site does not work, you can still refer to my [LinkedIn](http://linkedin.asankasovis.com) and [Github](http://github.asankasovis.com) for my information. Additionally, my Curriculum Vitae/Resume is available for downloading in [this link](./documents/Asanka_Sovis_Curriculum_Vitae.pdf). Feel free to contact me on [contact@asankasovis.com](mailto:contact@asankasovis.com).
+This repo holds the source code of my personal website. The template used is originally uploaded by [DevCRUD](https://devcrud.com/) to [www.free-css.com](https://www.free-css.com/free-css-templates/page281/john-doe). You are free to copy this source and use it for your own personal website. In case the site does not work, you can still refer to my [LinkedIn](http://linkedin.asankasovis.com) and [GitHub](http://github.asankasovis.com) for my information. Feel free to contact me on [contact@asankasovis.com](mailto:contact@asankasovis.com) for any inquiry.
 
 **Visit my Personal Site: [asankasovis.com](https://www.asankasovis.com)**
 
